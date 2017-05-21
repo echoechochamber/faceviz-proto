@@ -17,7 +17,8 @@ void faceRect::setup(string fName){
     ofBuffer buffer = file.readToBuffer();
     
     // create ofXml object from file buffer
-    faceData.loadFromBuffer( buffer.getText() ) ;
+    faceData.load( buffer.getText() ) ;
+
     // start by setting the xml to the parent node - for whatever reason it doesn't work for me when I try to set by path
     faceData.setToParent() ; // you need to set this to the parent - this is almost always the way to start
     
