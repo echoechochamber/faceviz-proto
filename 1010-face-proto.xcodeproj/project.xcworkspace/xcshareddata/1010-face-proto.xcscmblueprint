@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2DE9C8846D9375EAACFABA8963120E8E7719BAF5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2DE9C8846D9375EAACFABA8963120E8E7719BAF5" : 0,
+    "37526DA425E5430474A14FBFA1BC4525160B5FC1" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B3C91208-5864-4EE6-9649-0A8EF21613C0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2DE9C8846D9375EAACFABA8963120E8E7719BAF5" : "openFrameworks\/",
+    "37526DA425E5430474A14FBFA1BC4525160B5FC1" : "openFrameworks\/addons\/ofxCv\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "1010-face-proto",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "apps\/myApps\/1010-face-proto\/1010-face-proto.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/openframeworks\/openFrameworks.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2DE9C8846D9375EAACFABA8963120E8E7719BAF5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/kylemcdonald\/ofxCv.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "37526DA425E5430474A14FBFA1BC4525160B5FC1"
+    }
+  ]
+}
